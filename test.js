@@ -1,1 +1,1 @@
-var test = 'name'
+const test = 'name'
